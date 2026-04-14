@@ -1,0 +1,1 @@
+https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3
