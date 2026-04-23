@@ -2,4 +2,7 @@ text.txt
 environment_files
 ARC-AGI-3-Agents
 arc_agi_3_wheels
+
+public_games_overview.csv
+
 .venv
