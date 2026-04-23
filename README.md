@@ -9,7 +9,6 @@ This repository contains a practical notebook pipeline for ARC-AGI-3 that is com
 Main implementation file:
 - `arc-prize-2026-arc-agi-3.ipynb`
 
-
 ## Submission Output
 Final submission schema:
 - `row_id`
