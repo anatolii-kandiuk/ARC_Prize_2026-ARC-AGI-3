@@ -9,16 +9,6 @@ This repository contains a practical notebook pipeline for ARC-AGI-3 that is com
 Main implementation file:
 - `arc-prize-2026-arc-agi-3.ipynb`
 
-## Notebook Pipeline
-The notebook is organized into the following phases:
-1. setup and shared imports
-2. metadata overview and tag statistics
-3. run context initialization and metrics logger
-4. baseline policy simulation
-5. offline generative policy
-6. memory/reflection layer
-7. aggregate evaluation tables
-8. submission packaging
 
 ## Submission Output
 Final submission schema:
