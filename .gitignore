@@ -7,3 +7,4 @@ runs
 public_games_overview.csv
 
 .venv
+.env
